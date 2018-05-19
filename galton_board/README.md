@@ -8,7 +8,7 @@ python run.py
 ~~~
 
 ## Visualization
-![Example of SnakeWorld](./media/example.jpg) 
+![Example of Galton Board](./media/example.png) 
 
 
 Parameters:
